@@ -1,4 +1,4 @@
- board = "board"
+ board = "tic-tac-toe"
 row = [" ", " ", " "]
 
 row = [" ", " ", " "]
