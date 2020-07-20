@@ -1,5 +1,5 @@
 def "board"
-row = [" ", " ", " "]
+board = [" ", " ", " "]
 
 # Position 1: Left
 row[0]
